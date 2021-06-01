@@ -56,5 +56,4 @@ EasyEnsembleClassifier Model
 
 ## Summary:
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+In summary, the results of these machine learning models show that the Balanced Random Forest Classifier and Easy Ensemble Classifier models had the highest scores, at 78.9% and 93.2% respectively. The recall score is an import metric since the goal of our analysis is to find a model that can best detect when a loan is high risk. When we compare the recall scores, we find that the Easy Ensemble Classifier had the highest score at 92%. The model recommended at this point is the Easy Ensemble Classifier model due to its recall high risk score and its good performance overall.
