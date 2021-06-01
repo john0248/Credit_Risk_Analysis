@@ -9,6 +9,11 @@ Links to images are working, and code is formatted and displayed correctly (2 pt
 ## Analysis (24 points)
 The written analysis has the following:
 
+
+
+![](Resources/SMOTE.png)
+
+
 ## Overview of the loan prediction risk analysis:
 
 The purpose of this analysis is well defined (4 pt)
