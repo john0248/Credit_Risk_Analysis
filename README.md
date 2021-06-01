@@ -10,10 +10,49 @@ Our credit card credit dataset comes from LendingClub, a peer-to-peer lending se
 
 ## Results:
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+Please find the bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models below.
 
-![](Resources/SMOTE.png)
+RandomOverSampler Model
+•	Accuracy Score is 67.4%
+•	Precision High Risk Score is 1%
+•	Precision Low Risk Score is 100%
+•	Recall High Risk Score is 74%
+•	Recall Low Risk Score is 61%
 
+SMOTE Model
+•	Accuracy Score is 66.2%
+•	Precision High Risk Score is 1%
+•	Precision Low Risk Score is 100%
+•	Recall High Risk Score is 63%
+•	Recall Low Risk Score is 69%
+
+ClusterCentroids Model
+•	Accuracy Score is 66.2%
+•	Precision High Risk Score is 1%
+•	Precision Low Risk Score is 100%
+•	Recall High Risk Score is 69%
+•	Recall Low Risk Score is 40%
+
+SMOTEENN Model
+•	Accuracy Score is 54.4%
+•	Precision High Risk Score is 1%
+•	Precision Low Risk Score is 100%
+•	Recall High Risk Score is 73%
+•	Recall Low Risk Score is 59%
+
+BalancedRandomForestClassifier Model
+•	Accuracy Score is 78.9%
+•	Precision High Risk Score is 3%
+•	Precision Low Risk Score is 100%
+•	Recall High Risk Score is 70%
+•	Recall Low Risk Score is 87%
+
+EasyEnsembleClassifier Model
+•	Accuracy Score is 93.2%
+•	Precision High Risk Score is 9%
+•	Precision Low Risk Score is 100%
+•	Recall High Risk Score is 92%
+•	Recall Low Risk Score is 94%
 
 ## Summary:
 
