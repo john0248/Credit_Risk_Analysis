@@ -1,10 +1,10 @@
 # Credit_Risk_Analysis
 
-The written analysis has the following structure, organization, and formatting:
+Module 17 gives us the chance to combine our skills in data preparation, statistical reasoning and machine learning.  Our goal is to understand and build a model that will assist in predicting credit risk.  
 
-There is a title, and there are multiple sections (2 pt)
-Each section has a heading and subheading (2 pt)
-Links to images are working, and code is formatted and displayed correctly (2 pt).
+Credit risk can be seen as an unbalanced classification problem.  In general, there are more good loans compared to risky loans.   We were asked to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.  
+
+Our credit card credit dataset comes from LendingClub, a peer-to-peer lending services company.  We will first oversample the data using the RandomOverSampler and SMOTE algorithms and under sample the data using the ClusterCentroids algorithm. After the combinatorial approach of over- and undersampling, we will compare two new machine learning models to reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 
 ## Analysis (24 points)
 The written analysis has the following:
